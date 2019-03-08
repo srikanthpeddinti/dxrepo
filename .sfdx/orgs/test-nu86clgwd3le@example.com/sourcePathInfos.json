@@ -1,0 +1,272 @@
+[
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551352123525,
+            "changeTime": 1551352123525,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551352123525,
+            "changeTime": 1551353806666,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552040513913,
+            "changeTime": 1552040513913,
+            "contentHash": "093d4b8c2d3e40d9f213a48eaf6b419f6bdeedc1"
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551352123526,
+            "changeTime": 1551352123526,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551352153588,
+            "changeTime": 1551352153588,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551354016280,
+            "changeTime": 1551354016280,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6383,
+            "modifiedTime": 1552040513882,
+            "changeTime": 1552040513882,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56"
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2064,
+            "modifiedTime": 1552040513898,
+            "changeTime": 1552040513898,
+            "contentHash": "4b78e799d29dd6fec1939e27383312332bf19c11"
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\objects\\Property__c\\fields\\Property_Address__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\objects\\Property__c\\fields\\Property_Address__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 378,
+            "modifiedTime": 1552040513913,
+            "changeTime": 1552040513913,
+            "contentHash": "18c5db3879b347cbde82512bea65c9005a5e134d"
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2093,
+            "modifiedTime": 1552040513913,
+            "changeTime": 1552040513913,
+            "contentHash": "cb54ab90b866d737742478999c3acd7a50b09a5d"
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5441,
+            "modifiedTime": 1552040513929,
+            "changeTime": 1552040513929,
+            "contentHash": "84bb3866885d470e2ed86ed3845748af699dcc8c"
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19565,
+            "modifiedTime": 1552040513945,
+            "changeTime": 1552040513945,
+            "contentHash": "57d35f29b05084d06032fcb52b4cd596a1e8ddcf"
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5101,
+            "modifiedTime": 1552040513960,
+            "changeTime": 1552040513960,
+            "contentHash": "38884f62aa89953321b1762953bd58a1856a7360"
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5105,
+            "modifiedTime": 1552040513976,
+            "changeTime": 1552040513976,
+            "contentHash": "c9e6e683f6d9552b5822e4762bd9cb7bcd133b49"
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\settings",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552040513882,
+            "changeTime": 1552040513882,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb"
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\objects\\Property__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\objects\\Property__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552040513898,
+            "changeTime": 1552040513898,
+            "contentHash": "2853badaebf9d3c92437dccebfa4213a006d9f33"
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552040513898,
+            "changeTime": 1552040513898,
+            "contentHash": "c1145294c204bda9563db7c713620a98ad59edf3"
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\objects\\Property__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\objects\\Property__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552040513913,
+            "changeTime": 1552040513913,
+            "contentHash": "9148fae54c4ebcb3a7adcd95a7bc63ea91d66180"
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552040513913,
+            "changeTime": 1552040513913,
+            "contentHash": "c86720ac89c694c7b33643d77ddc7d374f67217f"
+        }
+    ],
+    [
+        "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pesrikanth\\Desktop\\SFDX\\mydemoproject\\mydemoproject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552040513976,
+            "changeTime": 1552040513976,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
